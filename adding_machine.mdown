@@ -7,6 +7,7 @@ Write a C++ program that simulates an adding machine. Input to the program will 
 
 Here's an example of how the program should work.
 user input	program's output
+
 | user input 	| program's output 	|
 |------------	|------------------	|
 | 5          	|                  	|
